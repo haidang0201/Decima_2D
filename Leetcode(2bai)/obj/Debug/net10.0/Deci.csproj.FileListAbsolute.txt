@@ -1,0 +1,14 @@
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\Deci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\Deci.AssemblyInfoInputs.cache
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\Deci.AssemblyInfo.cs
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\Deci.csproj.CoreCompileInputs.cache
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\bin\Debug\net10.0\Deci.exe
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\bin\Debug\net10.0\Deci.deps.json
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\bin\Debug\net10.0\Deci.runtimeconfig.json
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\bin\Debug\net10.0\Deci.dll
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\bin\Debug\net10.0\Deci.pdb
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\Deci.dll
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\refint\Deci.dll
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\Deci.pdb
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\Deci.genruntimeconfig.cache
+C:\Users\haida\OneDrive\ドキュメント\Desktop\Deci\obj\Debug\net10.0\ref\Deci.dll
