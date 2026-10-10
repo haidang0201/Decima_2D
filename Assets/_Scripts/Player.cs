@@ -76,6 +76,7 @@ public class Player : MonoBehaviour
     {
         if (col.gameObject.tag == "Coins")
         {
+            col.tag = "Untagged";
             Debug.Log("detect coins");
             Destroy(col.gameObject);
             UIManager.Ins.updateCoins();
